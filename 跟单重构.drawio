@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T06:58:49.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="v0lgnikL6FXv-v7hDXDf" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T07:04:13.948Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oNV_53-EeU8pRNEOU5ae" version="22.1.11" type="github">
   <diagram name="第 1 页" id="NrQw1u5KZVTpKxk_xpym">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2nA5JOeVlXjuK31kac9G-5" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="40" width="760" height="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="2nA5JOeVlXjuK31kac9G-1" value="跟单重构流程图" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;container=0;" vertex="1" parent="2nA5JOeVlXjuK31kac9G-5">
+          <mxGeometry width="760" height="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="2nA5JOeVlXjuK31kac9G-2" value="用户" style="swimlane;startSize=20;html=1;container=0;" vertex="1" parent="2nA5JOeVlXjuK31kac9G-5">
+          <mxGeometry y="20" width="150" height="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="2nA5JOeVlXjuK31kac9G-3" value="页面" style="swimlane;startSize=20;html=1;" vertex="1" parent="2nA5JOeVlXjuK31kac9G-5">
+          <mxGeometry x="150" y="20" width="460" height="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="2nA5JOeVlXjuK31kac9G-4" value="后端" style="swimlane;startSize=20;html=1;" vertex="1" parent="2nA5JOeVlXjuK31kac9G-5">
+          <mxGeometry x="610" y="20" width="150" height="1080" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
